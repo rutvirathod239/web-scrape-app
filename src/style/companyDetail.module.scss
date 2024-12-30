@@ -1,0 +1,15 @@
+.logo {
+    align-items: flex-start; 
+    width: 152px;
+    height: 152px;
+    border-radius: 5px
+}
+.title {
+    color: #64748B !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+}
+.columnContent {
+    display: flex;
+    flex-direction: column;
+}
